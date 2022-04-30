@@ -1,4 +1,5 @@
 # Práctica modelado de un personaje de League Of Legends
+![LOL](/0-Ejemplo%20LOL/Diagrama/Trynda.png)
 
 En esta práctica se modelo el personaje [Tryndamere](./0-Ejemplo%20LOL/src/Tryndamere.java) que extiende de la clase [Champion](./0-Ejemplo%20LOL/src/Champion.java) e implementa la interfaz
 [TryndamereActionCallbacks](./0-Ejemplo%20LOL/src/TryndamereActionCallbacks.java)
