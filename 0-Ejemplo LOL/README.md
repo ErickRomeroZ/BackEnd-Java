@@ -4,10 +4,10 @@ En esta práctica se modelo el personaje [Tryndamere](./0-Ejemplo%20LOL/src/Tryn
 [TryndamereActionCallbacks](./0-Ejemplo%20LOL/src/TryndamereActionCallbacks.java)
 
 ## Ejecución
-![Tryndamere-ejecucion](./0-Ejemplo%20LOL/Diagrama/Ejecucion.gif)
+![Tryndamere-ejecucion](/0-Ejemplo%20LOL/Diagrama/Ejecucion.gif)
 
 ## Diagrama
-![Tryndamere-diagrama](./0-Ejemplo%20LOL/Diagrama/Diagram-LOL.png)
+![Tryndamere-diagrama](/0-Ejemplo%20LOL/Diagrama/Diagram-LOL.png)
 
 **Nota**
 
