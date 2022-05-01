@@ -10,4 +10,4 @@ mientras que los dos restantes mediante constructor. La información de cada per
 ![Harry-ejecucion](/1-Harry/Diagrama/Harry-ejecucion.png)
 
 ## Diagrama
-![Tryndamere-diagrama](/1-Harry/Diagrama/diagrama.png)
+![Harry-diagrama](/1-Harry/Diagrama/diagrama.png)
