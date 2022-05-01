@@ -47,40 +47,40 @@ public class Comic {
             public void run() {
                 try {
                     vineta1.img1(screen);
-                    Thread.sleep(5000);
+                    Thread.sleep(10000);
 
                     vineta2.img2(screen);
-                    Thread.sleep(5000);
+                    Thread.sleep(10000);
 
                     vineta3.img3(screen);
-                    Thread.sleep(5000);
+                    Thread.sleep(10000);
 
                     vineta4.img4(screen);
-                    Thread.sleep(5000);
+                    Thread.sleep(10000);
 
                     vineta5.img5(screen);
-                    Thread.sleep(5000);
+                    Thread.sleep(10000);
 
                     vineta6.img6(screen);
-                    Thread.sleep(5000);
+                    Thread.sleep(10000);
 
                     vineta7.img7(screen);
-                    Thread.sleep(5000);
+                    Thread.sleep(10000);
 
                     vineta8.img8(screen);
-                    Thread.sleep(5000);
+                    Thread.sleep(10000);
 
                     vineta9.img9(screen);
-                    Thread.sleep(5000);
+                    Thread.sleep(10000);
 
                     vineta10.img10(screen);
-                    Thread.sleep(5000);
+                    Thread.sleep(10000);
 
                     vineta11.img11(screen);
-                    Thread.sleep(5000);
+                    Thread.sleep(10000);
 
                     vineta12.img12(screen);
-                    Thread.sleep(5000);
+                    Thread.sleep(10000);
 
                 } catch (InterruptedException ie){
                     ie.printStackTrace();
