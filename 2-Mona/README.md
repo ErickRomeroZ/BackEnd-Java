@@ -11,4 +11,4 @@ La información de cada personaje fue encaontrada en el siguiente [link](https:/
 ![Mona-ejecucion](/2-Mona/Diagrama/mona-ejecucion.png)
 
 ## Diagrama
-![TMona-diagrama](/2-Mona/Diagrama/Diagrama.png)
+![Mona-diagrama](/2-Mona/Diagrama/Diagrama.png)
